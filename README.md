@@ -1,0 +1,2 @@
+- 👋 My name is JoãoPLL (formally known as João Pedro)
+- I'm studying System Analysis and Development
